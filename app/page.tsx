@@ -18,7 +18,8 @@ import {
   Compass, 
   Luggage,
   Star,
-  Heart
+  Heart,
+  ExternalLink // <--- Added the missing ExternalLink icon here
 } from 'lucide-react';
 
 // --- MOCK DATA GENERATORS (The "Trendsetter" Brain) ---
